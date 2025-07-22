@@ -1,3 +1,16 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://www.bhowmickarchives.in/'
+title = 'Bhowmick Archives'
+theme = 'ananke'
+
+[languages]
+  [languages.en]
+    title = 'Bhowmick Archives'
+    weight = 1
+    languageName = 'English'
+    contentDir = 'content/english'
+
+  [languages.bn]
+    title = 'ভৌমিকদের কাগজপত্র'
+    weight = 2
+    languageName = 'বাংলা'
+    contentDir = 'content/bengali'
