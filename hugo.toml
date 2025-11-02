@@ -1,16 +1,24 @@
 baseURL = 'https://www.bhowmickarchives.in/'
-title = 'Bhowmick Archives'
-theme = 'ananke'
+title = 'Complete Works of Aparesh Bhowmick'
+theme = 'congo'
+defaultContentLanguage = 'en'
 
 [languages]
   [languages.en]
-    title = 'Bhowmick Archives'
+    languageName = "English"
     weight = 1
-    languageName = 'English'
-    contentDir = 'content/english'
-
+    title = "Complete Works of Aparesh Bhowmick"
+    contentDir = "content/english"
+    [languages.en.params]
+      [languages.en.params.author]
+        name = "Aparesh Bhowmick"
+      description = "The complete works of Aparesh Bhowmick."
   [languages.bn]
-    title = 'ভৌমিকদের কাগজপত্র'
+    languageName = "বাংলা"
     weight = 2
-    languageName = 'বাংলা'
-    contentDir = 'content/bengali'
+    title = "অপরেশ ভৌমিকের সমগ্র রচনা"
+    contentDir = "content/bengali"
+    [languages.bn.params]
+      [languages.bn.params.author]
+        name = "অপরেশ ভৌমিক"
+      description = "অপরেশ ভৌমিকের সমগ্র রচনা।"

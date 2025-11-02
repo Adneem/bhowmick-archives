@@ -1,0 +1,11 @@
+[[main]]
+name = "হোম"
+pageRef = "/"
+weight = 10
+
+[[main]]
+name = "ভাষা"
+weight = 100
+identifier = "language-switcher"
+[main.params]
+action = "locale"
