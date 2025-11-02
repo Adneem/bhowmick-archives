@@ -4,6 +4,31 @@ pageRef = "/"
 weight = 10
 
 [[main]]
+name = "বই"
+pageRef = "/books"
+weight = 20
+
+[[main]]
+name = "অপ্রকাশিত"
+pageRef = "/unpublished"
+weight = 30
+
+[[main]]
+name = "প্রকাশনা"
+pageRef = "/publications"
+weight = 40
+
+[[main]]
+name = "চিত্রশালা"
+pageRef = "/gallery"
+weight = 50
+
+[[main]]
+name = "প্রবন্ধ"
+pageRef = "/articles"
+weight = 60
+
+[[main]]
 name = "ভাষা"
 weight = 100
 identifier = "language-switcher"
