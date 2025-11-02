@@ -4,8 +4,8 @@ pageRef = "/"
 weight = 10
 
 [[main]]
-name = "Books"
-pageRef = "/books"
+name = "Stories"
+pageRef = "/stories"
 weight = 20
 
 [[main]]
