@@ -9,6 +9,11 @@ pageRef = "/stories"
 weight = 20
 
 [[main]]
+name = "Novels"
+pageRef = "/novels"
+weight = 25
+
+[[main]]
 name = "Unpublished"
 pageRef = "/unpublished"
 weight = 30
