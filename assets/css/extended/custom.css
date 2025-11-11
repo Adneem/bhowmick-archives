@@ -15,3 +15,8 @@
   font-size: 0.9rem; /* Decrease font size */
   margin-top: 1rem;
 }
+
+.post-content p {
+  text-align: justify;
+  font-size: 1.1em;
+}
