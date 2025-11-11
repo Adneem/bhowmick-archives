@@ -1,6 +1,5 @@
 baseURL = 'https://www.bhowmickarchives.in/'
 title = 'Complete Works of Aparesh Bhowmick'
-theme = 'congo'
 defaultContentLanguage = 'en'
 
 [languages]
@@ -22,3 +21,12 @@ defaultContentLanguage = 'en'
       [languages.bn.params.author]
         name = "অপরেশ ভৌমিক"
       description = "অপরেশ ভৌমিকের সমগ্র রচনা।"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = true
