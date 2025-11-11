@@ -1,6 +1,7 @@
 ---
-title: "One"
+title: "The Ambush"
 date: 2023-10-27
+weight: 1
 ---
 Gudum, gudum... Gudum, gudum.
 

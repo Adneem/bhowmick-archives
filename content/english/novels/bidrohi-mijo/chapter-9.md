@@ -1,6 +1,7 @@
 ---
-title: "Nine"
+title: "Winds of Change"
 date: 2023-10-28
+weight: 9
 ---
 
 The days are moving forward. A lot of water has flowed down the Kolodyne, Saireng, and other rivers of the Mizo district. The flow of water has not stopped. The armed campaign of Thu-Aya, Jitinga, Yangaya, Rema, and others is flowing like the Kolodyne river. Sometimes like the swift current of the monsoon. And sometimes like the gentle current of a river with sandbanks in winter. During the four long years of the armed struggle of the Mizo rebels, Rema had never come down to the plains. After a long time, Rema came to the city of Silchar with two of her companions. In the early days of the armed struggle in the Mizo hills, the Mizos who came down to the plains naturally moved around in fear. At that time, they were often harassed on the public roads by some classes of people from the plains. But it is not like that anymore. As Rema entered the city and walked along the main road towards the center of Silchar, what she saw seemed new to her. From the side of the Zoram Hotel, on the wall next to the main road, it was written in large red letters,

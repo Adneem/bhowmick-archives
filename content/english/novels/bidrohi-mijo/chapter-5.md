@@ -1,6 +1,7 @@
 ---
-title: "Five"
+title: "The Trap"
 date: 2023-10-28
+weight: 5
 ---
 
 Rosangi and Lalchungi are walking along a narrow path, breaking through the ups and downs, from the jhum field to their punjee. Both are walking side by side. Both have two baskets on their backs. The baskets are not like the baskets made in the plains. They are quite large in size and strong and sturdy. A belt made of cane or cloth is attached to the top. The entire basket is placed on the back and the belt is fastened to the forehead. One does not need both hands to move around with these kinds of baskets. Almost all the hill dwellers of the hilly regions of Assam use this type of basket. One can easily cross the ups and downs with the baskets loaded, keeping both hands free. Rosangi and Lalchungi are walking with the entire basket on their backs, the belt fastened to their foreheads, and their hands free.

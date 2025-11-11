@@ -1,6 +1,7 @@
 ---
-title: "Four"
+title: "The Secret Meeting"
 date: 2023-10-28
+weight: 4
 ---
 
 The sun was gradually setting in the western sky. Yangaya, Jitinga, and another colleague were slowly advancing along the winding, serpentine road built through the impenetrable, jungle-covered region of the mountains. In the distance, the sun's rays were scattered in various ways on the mountain peaks. In a moment, their colors were changing and gradually fading. They had to reach the Sailo punjee before the darkness of the night engulfed them. Jitinga had initially thought that due to his long stay abroad, Yangaya might have difficulty walking on this difficult path. But in fact, Yangaya was keeping pace with them just fine. There was no extra sign of fatigue on his face. He was walking in step towards the hideout in the Sailo punjee.

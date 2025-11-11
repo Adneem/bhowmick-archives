@@ -1,6 +1,7 @@
 ---
-title: "Twelve"
+title: "The Final Resolve"
 date: 2023-10-28
+weight: 122
 ---
 
 After Rangchwanga and the others came out of jail, the situation in the Mizo hills began to change rapidly. Although armed clashes between the security forces and the hostile Mizos were taking place in the Jhumpai region near Aizawl and other hilly areas, and casualties were occurring on both sides, those news items were not given due importance, and the activities of the city-based political parties of the Mizo hills began to gain prominence. Discussions were held with the Prime Minister and other leaders of the Government of India in Delhi about the political situation in the Mizo district, and a demand was made to transform the Mizo district into a full-fledged state. In the meantime, headlines began to appear in the newspapers that a number of Mizo National Front workers were coming to an understanding with the government.

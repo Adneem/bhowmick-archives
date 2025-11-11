@@ -1,6 +1,7 @@
 ---
-title: "Six"
+title: "The Prison"
 date: 2023-10-28
+weight: 6
 ---
 
 Rangchwanga and his colleagues were confined in a guarded cell of the military cantonment in Aizawl. The arrest of Rangchwanga and his colleagues was different from that of all the others who had been arrested. The jawans of the security forces had surrounded them and brought them from the very place of operation. They had ongoing contact with other fighting Mizo rebels. Therefore, information had to be extracted from them somehow.

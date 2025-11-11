@@ -1,6 +1,7 @@
 ---
-title: "Seven"
+title: "The Political Game"
 date: 2023-10-28
+weight: 7
 ---
 
 General Thu-Aya and Yangaya were sitting in a secret hideout, talking. Jitinga is the one who can tell the most about all the incidents that have happened in different areas of the Mizo hills. Yangaya and Thu-Aya are waiting for Jitinga. In the hope of getting a rough picture of the events of the past days, Jitinga arrived a little late for the scheduled time while Yangaya and Thu-Aya were talking. As soon as he arrived, Thu-Aya said to Jitinga,

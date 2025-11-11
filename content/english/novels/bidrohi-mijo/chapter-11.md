@@ -1,6 +1,7 @@
 ---
-title: "Eleven"
+title: "The Release"
 date: 2023-10-28
+weight: 11
 ---
 
 After eating his morning meal, Rangchwanga lit a bidi and, as he was going from his own ward to another, he saw a familiar face whom he had seen in this jail a long time ago and stopped. Although his appearance had changed in a few years, it was not difficult to recognize him. Addressing him, he said,

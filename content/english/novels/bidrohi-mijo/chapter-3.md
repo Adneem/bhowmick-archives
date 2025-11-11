@@ -1,6 +1,7 @@
 ---
-title: "Three"
+title: "The Capture"
 date: 2023-10-28
+weight: 3
 ---
 
 Rangchwanga and his colleagues were lying in wait in the dense jungle a short distance from the road next to Thingdawl. Seeing the military van moving along the road, Rangchwanga could not control himself. The bullets from his gun came out with a "gudum, gudum" sound, targeting the van. His colleagues also fired at the target. After a few shots were fired, bullets started coming out continuously from the other side with a "tak tak" sound.

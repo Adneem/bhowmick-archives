@@ -1,6 +1,7 @@
 ---
-title: "Eight"
+title: "A History of Rebellion"
 date: 2023-10-28
+weight: 8
 ---
 
 The fact that we call ourselves Mizo today is our new nomenclature. In our language, Mizo means those who live in the highlands, that is, those who live in the high land. We have given the collective name Mizo to various groups like Lushei, Kuki, Mahar, Paito, Riang, Pawai, Chakma, Lakher, etc.
