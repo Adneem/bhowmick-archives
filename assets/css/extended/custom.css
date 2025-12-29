@@ -20,3 +20,7 @@
   text-align: justify;
   font-size: 1.1em;
 }
+
+:lang(bn) {
+  font-family: 'Tiro Bangla', sans-serif;
+}
