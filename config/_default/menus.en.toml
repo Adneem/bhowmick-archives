@@ -33,9 +33,3 @@ name = "Articles"
 pageRef = "/articles"
 weight = 60
 
-[[main]]
-name = "Language"
-weight = 100
-identifier = "language-switcher"
-[main.params]
-action = "locale"

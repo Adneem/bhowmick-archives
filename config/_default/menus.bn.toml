@@ -33,9 +33,3 @@ name = "প্রবন্ধ"
 pageRef = "/articles"
 weight = 60
 
-[[main]]
-name = "ভাষা"
-weight = 100
-identifier = "language-switcher"
-[main.params]
-action = "locale"
