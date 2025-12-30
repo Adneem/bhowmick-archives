@@ -19,6 +19,11 @@ pageRef = "/unpublished"
 weight = 30
 
 [[main]]
+  name = "স্মৃতির পাতা থেকে"
+  pageRef = "/archive"
+  weight = 35
+
+[[main]]
 name = "প্রকাশনা"
 pageRef = "/publications"
 weight = 40
@@ -32,4 +37,3 @@ weight = 50
 name = "প্রবন্ধ"
 pageRef = "/articles"
 weight = 60
-

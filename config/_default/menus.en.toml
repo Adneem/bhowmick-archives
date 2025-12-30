@@ -19,6 +19,11 @@ pageRef = "/unpublished"
 weight = 30
 
 [[main]]
+  name = "From the Archives"
+  pageRef = "/archive"
+  weight = 35
+
+[[main]]
 name = "Publications"
 pageRef = "/publications"
 weight = 40
@@ -32,4 +37,3 @@ weight = 50
 name = "Articles"
 pageRef = "/articles"
 weight = 60
-
