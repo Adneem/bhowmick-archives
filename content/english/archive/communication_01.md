@@ -4,7 +4,7 @@ date: 2025-12-29
 description: "A series of letters exchanged between Naresh Bhowmick and Dr. Triguna Sen regarding Calcutta Corporation politics and the Progressive Citizens' Bloc."
 ---
 
-This document contains a fascinating political correspondence from March 1965 between Naresh Bhowmick and Dr. Triguna Sen, who was the Rector of Jadavpur University at the time.
+This document contains a fascinating political correspondence from March 1965 between Naresh Bhowmick and Dr. Triguna Sen, who was the Rector of Jadavpur University at the time. Dr. Sen was also a former Education Minister for the Goverment of India. He was also a Mayor of Calcutta Corporation for some time.
 
 The exchange includes:
 - A critical letter from Naresh Bhowmick accusing Dr. Sen of political opportunism regarding the upcoming Calcutta Corporation election and his involvement with the "Progressive Citizens' Bloc" (P.C.B.).
