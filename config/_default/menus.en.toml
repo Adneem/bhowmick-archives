@@ -24,8 +24,8 @@ weight = 30
   weight = 35
 
 [[main]]
-name = "Publications"
-pageRef = "/publications"
+name = "Travelogue"
+pageRef = "/travelogue"
 weight = 40
 
 [[main]]

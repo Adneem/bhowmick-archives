@@ -24,8 +24,8 @@ weight = 30
   weight = 35
 
 [[main]]
-name = "প্রকাশনা"
-pageRef = "/publications"
+name = "ভ্রমণকাহিনী"
+pageRef = "/travelogue"
 weight = 40
 
 [[main]]
