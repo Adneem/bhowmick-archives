@@ -4,7 +4,7 @@ date: 2023-10-28
 weight: 2
 ---
 
-It was about eight o'clock at night. A winter night. The surroundings were covered in fog. Nothing could be seen when one went out of the house. There was a sense of silence all over the area. Rema went out of the house once, and after being hit by a gust of cold, she came back inside and sat by the fireplace. Rosangi had almost finished preparing the dinner. Just then, Jitinga pushed the door and entered. To protect himself from the severity of the cold, he had covered his body with warm clothes in such a way that only his face was visible, and at a glance, even his closest relatives would not be able to recognize that he was actually Jitinga. Both Rema and Rosangi looked at the newcomer carefully.
+It was about eight o'clock at night. A winter night. The surroundings were covered in fog. Nothing could be seen when one went out of the house. There was a sense of silence all over the area. Rema went out of the house once, and after being hit by a gust of cold, he came back inside and sat by the fireplace. Rosangi had almost finished preparing the dinner. Just then, Jitinga pushed the door and entered. To protect himself from the severity of the cold, he had covered his body with warm clothes in such a way that only his face was visible, and at a glance, even his closest relatives would not be able to recognize that he was actually Jitinga. Both Rema and Rosangi looked at the newcomer carefully.
 
 — Hey, from the way you are looking, it seems you are seeing something new. Can't you recognize me? Jitinga said.
 
