@@ -3,44 +3,54 @@ title: "The Ambush"
 date: 2023-10-27
 weight: 1
 ---
-Boom!!! Boom!!! Boom!!
+Boom! Boom! Boom!
 
-These days, the sound of gunshots often echoes from afar, breaking the silence of the mountains. The volunteers of Mizo National Front, the military wing of the self-proclaimed independent Mizoram, have taken up arms. They target the enemy and eliminate them. Everyone's morale is strong and unwavering. 
+Gunshots shattered the silence of the mountains—a sound that had become all too familiar these days. The volunteers of the Mizo National Front, the armed wing of a nation fighting for its soul, had risen. They targeted the enemy with precision, their morale ironclad and unwavering.
 
-"We will continue to fight the enemy until the last drop of blood in our bodies. We will fight to maintain the independence and integrity of our self-proclaimed Mizoram. No matter how strong the enemy forces are, we will bring about the independence of Mizoram." Every rebel Mizo has the same attitude. With this attitude, after receiving advance news of the secret forces, Thu-Aya and his colleagues have set up an ambush in the bushes of the forested hills next to the main road.
+"We will fight until the last drop of blood leaves our bodies," was the unspoken vow on every pair of lips. "No matter the strength of the enemy, we will keep Mizoram free."
 
-The government has called in the army to completely crush the Mizo rebels. Convoy after convoy has entered the Mizo hills through Cachar via Silchar. The rebels must be suppressed and peace must be restored. A few days ago, quite a few entered, and today, in anticipation of a few more entering, Thu-Aya and his colleagues have set up this ambush. The road, clinging to the side of the mountain, has been continuously winding and rising in a serpentine motion. It's a deep jungle. On one side of the road, the mountain has been gradually rising. On the other side, there is a a deep ditch. A little carelessness is more likely to cause a motor vehicle to fall into the deep ditch. Thu-Aya and his colleagues are waiting in position on the higher ground of the hill on the opposite side of the road from the ditch. After a long wait, Thu-Aya became alert after hearing the faint sound of a military van. From the sound, it seems that the vans are coming from far below, winding their way up the serpentine mountain road. It will still take about half an hour to come within range.
+Fueled by this resolve and acting on intelligence about an incoming convoy, General Thu-Aya and his men lay in wait. They were hidden in the dense foliage overlooking the main road—a serpentine track clinging to the mountainside. The terrain was unforgiving: to one side, the hill rose steeply; to the other, a sheer drop plunged into a deep gorge. A single moment of carelessness could send a vehicle tumbling into the abyss.
 
-Breaking the silence of the mountains, the faint sound is gradually becoming louder. With the increase in sound, every moment is creating a new stir in the minds of Thu-Aya and his colleagues. Every moment is passing one by one, and the frenzy of attacking the enemy is increasing in the body of every rebel Mizo. When they were about 50 meters away, suddenly, a loud sound of gudum gudum erupted, breaking the continuous sound of the military van. The sound of a single gunshot is echoing, being obstructed by various high and low hills. If there is some shooting in the low-lying area between the hills, the sound echoes in such a way that it seems as if a large force is firing continuously from all sides.
+The government had deployed the army to crush the rebellion, sending convoy after convoy rolling into the hills from Silchar. They were determined to suppress the uprising, but Thu-Aya was ready.
 
+After a long, tense silence, a faint mechanical drone drifted up from the valley below. Military vans. They were still half an hour away, winding their way up the treacherous slopes, but the sound triggered a rising adrenaline in the rebels. As the drone grew into a roar, the anticipation became almost physical.
 
-Six or seven military-laden vans were moving ahead and behind. After being hit by a sudden gunshot, the first vehicle stopped, and all of them came to a halt. The soldiers in the van, who were like startled sparrows hit by a hawk, were more stunned by the sound than the impact of the bullets and started jumping out of the van. After about half an hour of continuous firing and throwing bombs, General Thu-Aya and his colleagues stopped.
+When the lead vehicle was fifty meters out—Crack!
 
+A deafening explosion of gunfire erupted, the echoes multiplying off the canyon walls until it sounded like an entire army firing from all sides. The convoy of six or seven vans shuddered to a halt. Panic ensued. The soldiers, stunned more by the sudden noise than the impact, scrambled out of the vehicles like sparrows scattered by a hawk.
 
-By then, the sun was rapidly disappearing on the western horizon. Darkness would soon cover the place. In the middle of the road, two military vans were burning fiercely. A little behind them, a van was standing against the side of the hill. The bodies of the military personnel were lying here and there on the ground in various postures.
+For half an hour, bullets and crude bombs rained down on the road. Then, silence returned.
 
-— Are they all finished? There is no sound at all. General Thu-Aya whispered to his colleague.
+The sun was dipping rapidly below the western horizon. Two vans burned fiercely in the middle of the road, casting dancing shadows against the hill where a third van leaned precariously. Bodies lay scattered across the asphalt in twisted, unnatural angles.
 
-— Even if not with one of my bullets, two or three have been wounded. One died from a straight bullet wound, and one or two must have jumped into the ditch to save their lives in fear. Even if not completely finished, they are groaning in death after being crushed four or five hundred meters below.
+"Are they all finished?" Thu-Aya whispered to the man beside him. "The shooting has stopped."
 
-Saying this, the colleague smiled. General Thu-Aya could not help but smile at his words. Because this is what happens in most of their cases. Frightened by a sudden attack, they lose consciousness and, in a desperate attempt to save their lives, jump into a death trap.
+"If the bullets didn't get them, the fall did," the comrade replied with a grim smile. "Some jumped into the ditch in panic. If they aren't dead, they are broken on the rocks four or five hundred meters down."
 
-After the darkness deepened a little, General Thu-Aya and his colleagues cautiously came down to the main road through their secret path. As the darkness deepened, the silence of the mountains seemed even greater. In the silent darkness, in the silence of the mountains, on the main road, the rebel Thu-Aya and his companions were slowly searching here and there like a few shadow figures. They saw that all those who were lying on the main road were dead. Going a little further, they saw the wreckage of two burnt vans. A little further back, another van was leaning against the side of the hill. Thu-Aya and his colleagues collected the rifles that were scattered here and there next to the dead bodies and slowly climbed the hill again through the secret path. As soon as they receive the order from the signal corps, they will move to another area from there.
+Thu-Aya returned the smile. It was a common sight: terrified by the ambush, the soldiers often leaped blindly into the death traps of the gorges.
 
-One should not stay in a place for a long time after an attack. After wounding the enemy, whatever weapons are found should be taken and the area should be left as soon as possible. But that is done according to the instructions of the signal corps. That is why General Thu-Aya and his colleagues have to wait for the signal. Facing the direction from which the signal was supposed to come, Thu-Aya sat down in the jungle. His colleagues also sat down with him. In a little leisure, the tired body has to be rejuvenated a little. Thinking that, he lit a bylo and started smoking it with great pleasure. Of course, the wave of joy in their minds at the success of the attack is making them feel a little restless.
+As twilight deepened into night, the silence of the mountains grew heavy. Like shadows, Thu-Aya and his men descended to the road. They moved quickly among the wreckage, scavenging rifles and ammunition from the fallen. Guerrilla warfare had rules: strike hard, take what you can, and vanish before reinforcements arrive.
 
-Exhaling the smoke of the bylo, General Thu-Aya said, "They never thought that we would attack them from this place in this way." Hearing Thu-Aya's words, his colleague Jaichoanga said, — Yes, from the way the bastards were sitting in the van, it seemed they were on a “Pleasure trip”.
+They retreated up the secret path to a clearing in the jungle to wait for the signal to move. Thu-Aya sat down, lighting a bylo. He exhaled the smoke with deep satisfaction, the buzz of victory making him restless.
 
-— “Pleasure trip” meaning? colleague Bongthanga asked.
+"They never expected us to hit them here," Thu-Aya said.
 
-— “Pleasure trip” means they thought that after reaching Aizawl, they would come out of the camp at night, get drunk, and attack the girls in the villages.
+"Look at how the bastards were sitting in the vans," his comrade Jaichoanga scoffed. "Relaxed. Like they were on a pleasure trip."
 
-Jaichoanga wanted to say more, but before that, Rolkhoma interrupted and said, "This is what they mean by suppressing the rebellion. Entering the punjee and beating them up indiscriminately and only raping the girls."
+"Pleasure trip?" Bongthanga asked.
 
-General Thu-Aya was enjoying the words of his colleagues Rolkhoma, Bongthanga, and Jaichoanga. At the same time, his temper was also getting flared up with revenge. He said, - "There is not a single punjee near Aizawl where the scoundrels of the enemy forces have not committed brutal atrocities indiscriminately. Every Mizo girl above the age of fourteen or fifteen has been a victim of their beastly lust. They have raped our mothers and sisters. They have looted their honor, and yet they are terrible cowards. When they come to suppress the rebels, from the ordinary soldier to the captain, they get confused by a single sudden shot from the rebels."
+"Thinking they’d reach Aizawl, get drunk, and hunt for village girls," Jaichoanga spat. He started to say more, but Rolkhoma interrupted darkly.
 
-In the midst of all this discussion, a lot of time has passed. Except for the twinkling stars in the sky, everything is covered in deep darkness! Suddenly, seeing a thin, long line of light twice in a row on the distant hill, Thu-Aya and his colleagues got up. Now they have to leave this place and go to their secret hideout. The secret force, after reviewing the surrounding environment, guides the action squad at night with various light signals. Even if it is known that the rebel action squad is guided by light signals, the security forces cannot accurately guess from which place to which place the squad is being directed.
+"That is their version of 'suppressing rebellion.' Entering a punjee, beating the men, and attacking the women."
 
-General Thu-Aya, Bongthanga, Jaichoanga, and other colleagues all carried the rifles they had obtained from the enemy today and proceeded through the deep jungle of the mountains along their secret path towards their secret hideout.
+Thu-Aya listened, his temper flaring at the truth of it. "There isn't a punjee near Aizawl they haven't defiled," he said, his voice hard. "They target our mothers, our sisters... looting their honor to satisfy their beastly lust. And yet, look at them. Cowards. From the ordinary soldier to the captain, one sudden gunshot and they fall apart."
 
-By the time the news of the disappearance of the security force heading towards Aizawl reaches the military authorities, General Thu-Aya and his colleagues will have reached their hideout. The military, furious at the ambush, will retaliate by flooding the area with modern weaponry and troops. However, the result will be disproportionate to the effort. After hours of exhausting searches, the soldiers will realize the rebels are long gone and that they have been scouring the jungle in vain.
+The conversation drifted into silence. Overhead, the stars began to twinkle, indifferent to the war below.
+
+Suddenly, two long flashes of light cut through the distant darkness on a faraway hill.
+
+The signal.
+
+Thu-Aya, Bongthanga, Jaichoanga, and the rest immediately stood up. The scouts were guiding them to safety. Even if the enemy saw the lights, they would never decipher the code or know where the squad was heading. Shouldering their captured rifles, the men slipped away into the deep jungle, moving toward their secret hideout.
+
+By the time news of the missing Aizawl security force reaches high command, General Thu-Aya and his men will be safely ensconced in their hideout. Incensed by the rebels' audacity, the military will inevitably swarm the ambush site with overwhelming firepower, intent on total annihilation. Yet, their massive operation will end in anticlimax—like a mountain laboring to bring forth a mouse. After hours of fruitless scouring, the soldiers will realize they have been chasing shadows in the deep jungle for nothing.
