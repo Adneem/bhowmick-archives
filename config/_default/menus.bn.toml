@@ -14,7 +14,7 @@ pageRef = "/novels"
 weight = 25
 
 [[main]]
-name = "অপ্রকাশিত"
+name = "বিবিধ"
 pageRef = "/unpublished"
 weight = 30
 
