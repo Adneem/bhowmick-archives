@@ -15,7 +15,7 @@ weight = 25
 
 [[main]]
 name = "বিবিধ"
-pageRef = "/unpublished"
+pageRef = "/miscellaneous"
 weight = 30
 
 [[main]]
